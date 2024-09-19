@@ -1,5 +1,5 @@
 
-const panoramaImage = new PANOLENS.ImagePanorama("images/aerial-drone-panoramic-view-old-brasov-centre-romania.jpg");
+const panoramaImage = new PANOLENS.ImagePanorama("images/shot-panoramic-composition-living-room.jpg");
 const imageContainer = document.querySelector(".image-container");
 
 const viewer = new PANOLENS.Viewer({
